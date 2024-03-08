@@ -4,6 +4,7 @@
     "health": 600,
     "size": 2,
     "alwaysUnlocked": true,
+    "hasShadow": false,
     "requirements": [],
     "category": "distribution",
     "research": {

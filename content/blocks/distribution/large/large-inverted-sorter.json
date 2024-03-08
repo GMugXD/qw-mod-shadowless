@@ -5,6 +5,7 @@
     "size": 2,
     "invert": true,
     "alwaysUnlocked": true,
+    "hasShadow": false,
     "requirements": [
      "copper/3",
         "lead/3"
